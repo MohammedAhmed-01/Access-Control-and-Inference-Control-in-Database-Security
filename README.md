@@ -1,0 +1,2 @@
+# Access-Control-and-Inference-Control-in-Database-Security
+Access control and inference control are essential for protecting sensitive database information. Access control ensures users only see what they are authorized to view, while inference control prevents attackers from deducing confidential data indirectly. Implementing both mechanisms together results in a robust and secure database environment.
