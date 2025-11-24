@@ -52,21 +52,36 @@ Noise addition & anonymization concepts
 
 .
 ├── access_control/
+
 │   ├── create_roles.sql
+
 │   ├── grant_permissions.sql
+
 │   ├── revoke_permissions.sql
+
 │   └── dac_rbac_examples.sql
+
+
 │
 ├── inference_control/
+
 │   ├── aggregation_attack.sql
+
 │   ├── differencing_attack.sql
+
 │   ├── secure_views.sql
+
 │   └── query_restrictions.sql
 │
+
 ├── docs/
+
 │   ├── Practical_Assignment_Report.pdf
+
 │   └── Explanation.md
+
 │
+
 └── README.md
 🛠️ Technologies Used
 
